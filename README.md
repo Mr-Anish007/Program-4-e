@@ -11,7 +11,9 @@ Write a C program to find vowels in a given string using function
 2. Declare a character array to store the input string and an integer variable vol initialized to 0.
 3. Read a line of text from the user using scanf("%[^\n]", word).
 4. Use a for loop to iterate through each character of the string:
+
     a. If the character is a vowel (a, e, i, o, u in both uppercase and lowercase), increment the vol counter.
+
 5. After the loop, print the total number of vowels stored in vol.
 6. End the program.
 ## PROGRAM:
